@@ -1,0 +1,16 @@
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\HashCode.exe
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\HashCode.deps.json
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\HashCode.runtimeconfig.json
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\HashCode.runtimeconfig.dev.json
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\HashCode.dll
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\ref\HashCode.dll
+C:\Users\deniz\Desktop\HashCode\bin\Debug\net5.0\HashCode.pdb
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.AssemblyInfo.cs
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.dll
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\ref\HashCode.dll
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.pdb
+C:\Users\deniz\Desktop\HashCode\obj\Debug\net5.0\HashCode.genruntimeconfig.cache
